@@ -4,7 +4,7 @@
 
 # Навыки и технологии
 
- -	Инструменты анализа данных: SQL, Excel, Google Sheets
+ -	Инструменты анализа данных: SQL, Excel, Google Sheets, Python
  -	Системы управления базами данных: MySQL, PostgreSQL
  -	Средства визуализации данных: PostgreSQL, Excel, Power Point
  -	Инструменты коммуникации: Битрикс24, Mattermost, Trello, Miro, Google Docs
