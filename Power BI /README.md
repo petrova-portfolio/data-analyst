@@ -23,4 +23,4 @@
 
 **Стек:** Python (pandas, requests), Яндекс.Метрика API, Power BI
 
-**Скриншот:** ![1. Cкрин_дашборд_power bi_воронки_Я.Метрика](https://github.com/petrova-portfolio/data-analyst/blob/main/Power%20BI%20/1.%20C%D0%BA%D1%80%D0%B8%D0%BD_%D0%B4%D0%B0%D1%88%D0%B1%D0%BE%D1%80%D0%B4_power%20bi_%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%BA%D0%B8_%D0%AF.%D0%9C%D0%B5%D1%82%D1%80%D0%B8%D0%BA%D0%B0.JPG)
+**Скриншот:** [1. Cкрин_дашборд_power bi_воронки_Я.Метрика](https://github.com/petrova-portfolio/data-analyst/blob/main/Power%20BI%20/1.%20C%D0%BA%D1%80%D0%B8%D0%BD_%D0%B4%D0%B0%D1%88%D0%B1%D0%BE%D1%80%D0%B4_power%20bi_%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%BA%D0%B8_%D0%AF.%D0%9C%D0%B5%D1%82%D1%80%D0%B8%D0%BA%D0%B0.JPG)
